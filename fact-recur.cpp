@@ -11,7 +11,7 @@ static int fact(int n) {
 }
 
 int main() {
-    int n=4 , fac = 1;
+    int n=5 , fac = 1;
     fac = fact(n);
     // trial
     cout<<"factorial is : "<<fac << endl;
