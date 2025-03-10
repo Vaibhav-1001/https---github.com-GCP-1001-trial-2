@@ -4,7 +4,7 @@ int c = 0;
 int main()
 {
 
-    int n = 75;
+    int n = 74;
     int f1 = 0, f2 = 1;
     c++;
     if (n == 1)
